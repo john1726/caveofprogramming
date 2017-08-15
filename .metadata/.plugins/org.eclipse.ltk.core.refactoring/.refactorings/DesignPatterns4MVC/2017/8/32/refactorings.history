@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.caveofprogramming.designpatterns.demo1.controller.controller&apos; to &apos;Controller&apos;&#x0D;&#x0A;- Original project: &apos;DesignPatterns4MVC&apos;&#x0D;&#x0A;- Original element: &apos;com.caveofprogramming.designpatterns.demo1.controller.controller&apos;&#x0D;&#x0A;- Renamed element: &apos;com.caveofprogramming.designpatterns.demo1.controller.Controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;controller&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.caveofprogramming.designpatterns.demo1.controller{controller.java[controller" matchStrategy="1" name="Controller" qualified="false" references="true" similarDeclarations="false" stamp="1502397605708" textual="false" version="1.0"/>
+</session>

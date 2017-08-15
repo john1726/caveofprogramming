@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1502387613597" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1502387613597" name\="com.sap.ide.sapjvm.jre.win32.x86_64_81.28.28" path\="C\:\\Program Files\\SAP\\hdbstudio\\plugins\\com.sap.ide.sapjvm.jre.win32.x86_64_81.28.28"/>\r\n</vmType>\r\n</vmSettings>\r\n
