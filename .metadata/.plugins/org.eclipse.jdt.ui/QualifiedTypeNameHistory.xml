@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
 <fullyQualifiedTypeName name="com.caveofprogramming.designpatterns.demo1.view.View"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.designpatterns.demo1.view.LoginListener"/>
 </qualifiedTypeNameHistroy>
